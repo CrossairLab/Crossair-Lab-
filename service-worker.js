@@ -1,4 +1,4 @@
-const CACHE_NAME = 'crossair-lab-shell-v1';
+const CACHE_NAME = 'crossair-lab-shell-v2';
 const APP_SHELL = ['./index.html', './manifest.webmanifest', './crossair-logo.png', './crossair-icon-192.png', './crossair-icon-512.png'];
 
 self.addEventListener('install', event => {
